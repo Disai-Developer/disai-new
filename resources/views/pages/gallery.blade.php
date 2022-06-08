@@ -3,6 +3,76 @@
 <title>Disai</title>
 @section('content')
 <div class="col-12 py-lg-5 py-3">
+    {{-- <div class="d-flex py-lg-5 py-3"id="cyber_crimes">
+        <h1 class="mx-auto font-bold text-center mb-0 heading2">Recent Trends in Cyber Crimes</h1>
+    </div> --}}
+    <main class="main mb-3">  
+        <div class="container">
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/1.png" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/1.png" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/2.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/2.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/3.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/3.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/4.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/4.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/5.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/5.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/6.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/6.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/7.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/7.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/8.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/8.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-image">
+                    <a href="assets/images/cyber/9.jpeg" data-fancybox="gallery" data-caption="Caption Images 1">
+                        <img src="assets/images/cyber/9.jpeg" alt="Image Gallery">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </main>
     <main class="main">
         <div class="container">
             <div class="card">

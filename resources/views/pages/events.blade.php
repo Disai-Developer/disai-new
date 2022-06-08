@@ -9,6 +9,21 @@
                     <h1 class="mx-auto font-bold heading2"> Some of the important events organised so far:</h1>
                 </div>
             </div>
+            <p class="about_p py-2"id="cyber"> 
+                A Lecture Session was conducted in association with MMA, Chennai on 23 May 2022 from 5.30 to 7.30 PM on
+                "Recent Trends in Cyber Crimes" Shri Amaraesh Pujai, I.P.S. Director General of Police was the Chief Guest.
+                He spoke on the recent trends in cyber crimes in India, and then highlighted the efforts taken by the Cyber
+                Crime Wing in Tamil Nadu police to recover the money in case the complaint is lodged immediately after the
+                crime is reported ie within the Golden Hour itself ie the first few minutes or at least first one hour of
+                the incident. He described the usefulness and purpose of the helpline number 1930 and emphasised the need to
+                propagate the number adding that NGOs like DiSAI can play a major role in such awareness initiatives. Shri
+                Siva Balaji spoke on the various vulnerabilities in a cellphone and the significance of some of the
+                settings. There were lot of questions in the Q & A session with the speakers answering the questions,
+                sharing their knowledge. The enlightened audience included two General Managers of Indian Overseas Bank
+                besides many top executives of IOB and other banks, practising advocates, retired bank officials and groups
+                of MBA and Criminology students.
+                <a href="{{ url('/gallery') }}#cyber_crimes" class=""> Click here for photos.</a>
+            </p>
             <p class="about_p py-2">
                 Conclave on “Securing India in the Cyber Space” organized by the Madras Management Association, on 20 Oct
                 2021. DiSAI was the supporting partner in the event. DiSAI Chairman Shri V Rajendran and Committee Member

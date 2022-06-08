@@ -79,9 +79,26 @@
             <div class="col-12">
                 <div class="d-flex row m-0 doctors_card">
                     <div class="col-md-4 my-3 my-lg-0">
+                        <div class="card card-shadow"> 
+                            <div class="doctor ">
+                                <img class="card-img-top o-cover c-img" src="{{ url('assets/images/post_cyber.jpeg') }}">
+                            </div>
+                            <div class="card-body">
+                                <h5 class="card-title text-center font-bold">Recent Trends in Cyber Crimes</h5>
+                                <p class="card-text text-center heal-para mb-1">Lecture Session on "Recent Trends in Cyber Crimes." was conducted on 23 May 2022 in association with MMA, Chennai.</p>
+                                <div class="text-center mt-lg-3">
+                                    <a href="{{ url('/events') }}#cyber"
+                                        class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
+                                        <button type="button" class="btn  semi_font_bold">View
+                                            More</button></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">
                             <div class="doctor ">
-                                <img class="card-img-top o-cover c-img" src="assets/images/d1.jpeg">
+                                <img class="card-img-top o-cover c-img" src="{{ url('assets/images/d1.jpeg') }}">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title text-center font-bold">Webinar on Womens’ Day</h5>
@@ -98,7 +115,7 @@
                     <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">
                             <div class="doctor">
-                                <img class="card-img-top o-cover c-img" src="assets/images/sec.jpg">
+                                <img class="card-img-top o-cover c-img" src="{{ url('assets/images/sec.jpg') }}">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title text-center font-bold">Securing India in Cyber Space</h5>
@@ -112,7 +129,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 my-3 my-lg-0">
+                    {{-- <div class="col-md-4 my-3 my-lg-0">
                         <div class="card card-shadow">
                             <div class="doctor c-img">
                                 <img class="card-img-top o-cover h-100" src="assets/images/third.jpg">
@@ -128,7 +145,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>                
             </div>
         </div>
