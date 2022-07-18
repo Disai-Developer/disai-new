@@ -1918,7 +1918,24 @@
                                 margin: auto;
                                 transition: all 0.4s;
                             }
+                            .stylish_link1:hover:before {
+                                right: -15px;
+                                background: #1b1b1b;
+                            }
 
+                            .stylish_link1:before {
+                                content: "";
+                                background: #353a90;
+                                position: absolute;
+                                width: 4px;
+                                height: 90%;
+                                transform: rotate(40deg);
+                                right: 0;
+                                top: 2px;
+                                bottom: 0;
+                                margin: auto;
+                                transition: all 0.4s;
+                            }
                             .owl-dots .active a {
                                 color: #BCE954 !important;
                             }
