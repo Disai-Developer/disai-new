@@ -103,6 +103,10 @@
                                         </div>
                                         
                                     </div>
+                                    <div class="mt-3 d-flex align-items-center">
+                                        <p class="well-p mb-0">To Register for the Workshop</p>
+                                        <a  class="ml-2 mb-0" target="_blank" href="{{url('https://forms.gle/F9N51PxWFKGYhozN9')}}">Click here</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
