@@ -90,13 +90,18 @@
                                     <p class="card-text text-center heal-para mb-1">Workshop on "Digital Security in India:
                                         Emerging Threats" is going to be held on 23rd July, 2022 at Raman Auditorium, AC Tech
                                         Building, Anna University Campus, Chennai.</p>
-                                    <div class="text-center d-flex justify-content-between mt-lg-3">
-                                        <a href="{{ url('assets/files/Brochure.pdf') }}" download
-                                            class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link1">
+                                    <div class="text-center d-flex flex-column flex-lg-row justify-content-between mt-lg-3">
+                                        <div >
+                                            <a href="{{ url('assets/files/Brochure.pdf') }}" download
+                                            class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
                                             <button type="button" class="btn  semi_font_bold">View Brochure</button></a>
-                                        <a href="{{ url('assets/files/Schedule.docx') }}" download
-                                            class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link1">
+                                        </div>
+                                        <div class="my-3 my-lg-0">
+                                            <a href="{{ url('assets/files/Schedule.docx') }}" download
+                                            class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
                                             <button type="button" class="btn  semi_font_bold">View Schedule</button></a>
+                                        </div>
+                                        
                                     </div>
                                 </div>
                             </div>
