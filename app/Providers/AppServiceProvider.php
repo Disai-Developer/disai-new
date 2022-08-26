@@ -13,9 +13,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()    
     {    
-         if(config('app.env') === 'production') {
-            \URL::forceScheme('https');            
-        }
+        //  if(config('app.env') === 'production') {
+        //     \URL::forceScheme('https');            
+        // }
         define('EMAIL_FONT', 'Verdana');
         define('SITE_URL', url('/'));
         define('SECONDARY_COLOR', '#294a8e');

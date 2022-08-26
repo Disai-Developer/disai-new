@@ -90,7 +90,7 @@
                                     <p class="card-text text-center heal-para mb-1">Workshop on "Digital Security in India:
                                         Emerging Threats" is going to be held on 23rd July, 2022 at Raman Auditorium, AC Tech
                                         Building, Anna University Campus, Chennai.</p>
-                                    <div class="text-center d-flex flex-column flex-lg-row justify-content-between mt-lg-3">
+                                    {{-- <div class="text-center d-flex flex-column flex-lg-row justify-content-between mt-lg-3">
                                         <div >
                                             <a href="{{ url('assets/files/Brochure.pdf') }}" download
                                             class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
@@ -102,11 +102,17 @@
                                             <button type="button" class="btn  semi_font_bold">View Schedule</button></a>
                                         </div>
                                         
+                                    </div> --}}
+                                    <div class="text-center mt-lg-3">
+                                        <a href="{{ url('/events') }}#emerging_threats"
+                                            class="bold_font font-9 text-decor-none dark-text-color position-relative stylish_link">
+                                            <button type="button" class="btn  semi_font_bold">View
+                                                More</button></a>
                                     </div>
-                                    <div class="mt-3 d-flex align-items-center">
+                                    {{-- <div class="mt-3 d-flex align-items-center">
                                         <p class="well-p mb-0">To Register for the Workshop
                                         <a  class="mb-0" target="_blank" href="{{url('https://forms.gle/F9N51PxWFKGYhozN9')}}">Click here</a></p>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>

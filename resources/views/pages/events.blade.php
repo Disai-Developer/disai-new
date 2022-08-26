@@ -9,7 +9,22 @@
                     <h1 class="mx-auto font-bold heading2"> Some of the important events organised so far:</h1>
                 </div>
             </div>
-            <p class="about_p py-2"id="cyber"> 
+            <p class="about_p py-2"id="emerging_threats">
+                A 1-day workshop was organized on the theme “Digital Security in India: Emerging Threats” in ‘Raman
+                Auditorium’, AC Tech Building, Anna University Campus, Chennai on Saturday 23 July 2022. Hon’ble Shri D.
+                Bharatha Chakravarthy, Judge Madras High Court was the Chief Guest and delivered an enlightening lecture on
+                digital security and data privacy. Shri S.K. Dogra, (Retd) , I.P.S., D.G.P. T.N. Police delivered a key note
+                address on the recent trends in cyber crimes in India. After the tea break, there were four thematic
+                sessions the first one by Ms Srilisha, D.S.P. T.N. Police Cyber Crime Command Centre, followed by one
+                session each on ‘Artificial Intelligence’ by Shri S.N. Ravichandran, ‘Securing the Mobile Device’ by Shri
+                Dinesh and “Money crimes in the Metaverse’ by Smt Panchi. The post-lunch session was a panel discussion with
+                three participants – Dr Bascarane, Supdt of Police from Pondicherry Police, Shri Logesh Babu, cyber law
+                advocate and Shri R Bhagwan Singh, senior journalist, well moderated by Shri Bharat, the well-known media
+                personality and anchor.
+                Please click the link for photos and complete video recording of the day’s event.
+                <a href="{{ url('/gallery') }}#cyber_crimes" class=""> Click here for photos.</a>
+            </p>
+            <p class="about_p py-2"id="cyber">
                 A Lecture Session was conducted in association with MMA, Chennai on 23 May 2022 from 5.30 to 7.30 PM on
                 "Recent Trends in Cyber Crimes" Shri Amaraesh Pujai, I.P.S. Director General of Police was the Chief Guest.
                 He spoke on the recent trends in cyber crimes in India, and then highlighted the efforts taken by the Cyber
@@ -176,7 +191,8 @@
                 DiSAI has signed MoU with Srimad Andavar College of Arts and Science, Srirangam, Trichy. DiSAI and Team
                 addressed the students of the college in a Webinar on “Cyber Crimes Awareness for Youth” . The event was
                 well received with good interaction and an interesting Q & A session. Please click the link for complete
-                recording of the event. <a href="https://www.youtube.com/watch?v=uXqtvQfWZNg">"Cyber Crime Awareness for Youth in Association With DiSAI - YouTube"</a>
+                recording of the event. <a href="https://www.youtube.com/watch?v=uXqtvQfWZNg">"Cyber Crime Awareness for
+                    Youth in Association With DiSAI - YouTube"</a>
             </p>
         </div>
     </div>
